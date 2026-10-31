@@ -1,0 +1,32 @@
+img {
+    width: 400px;
+}
+
+.top {
+    margin-top: 2.5em;
+}
+
+.container {
+    max-width: 900px;
+}
+
+.border {
+    border-radius: 10%;
+}
+
+body{
+    padding-top: 80px;
+}
+
+.link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.ponto {
+    color: #ffffff;
+}
+
+.row[id]{
+    scroll-margin: 90px;
+}
